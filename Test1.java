@@ -8,6 +8,9 @@
 		System.out.println("Programming");
 		System.out.println("semyeong");
 		System.out.println("2-1");
-작성자: 김민성1
+
+//작성자: 김민성
+
+//작성자: 김민성1
 	}
 }
