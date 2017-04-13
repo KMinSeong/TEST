@@ -4,8 +4,7 @@ public class Test1{
 	
 		System.out.println("Hello");
 		System.out.println("Wolrd");
-
-
+		System.out.println("JAVA");
 
 	}
 }
